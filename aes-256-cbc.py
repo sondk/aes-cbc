@@ -43,3 +43,4 @@ for iv in ivs:
 print(base64.b64decode("j6eS9zuKGSH42mH7YHaE1w==").hex())
 #print(aes.decrypt('{"iv": "j6eS9zuKGSH42mH7YHaE1w==", "ciphertext": "dbMWSc7+zQZp6/9ZdhqnPQ=="}'))
 #print(aes.decrypt('{"iv": "j6eS9auKGSH42mH7YHaE1w==", "ciphertext": "dbMWSc7+zQZp6/9ZdhqnPQ=="}'))
+/s/I1heaM4SKHHaVbi/myviettel-android-release-7-0-production-release-apk
